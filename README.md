@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuftiKhalis
-- 👀 I’m interested in music
+- 👀 I’m interested in tech
 - 🌱 I’m currently learning biological sciences
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
